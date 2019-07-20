@@ -1,4 +1,6 @@
 # Build An Alexa How-To Skill
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fskill-sample-nodejs-howto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fskill-sample-nodejs-howto?ref=badge_shield)
+
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
 This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a skill using a template called ‘Minecraft Helper’. Ask how to craft an item in the game Minecraft, and this skill will give you instructions.
@@ -32,3 +34,7 @@ There are a number of different ways for you to setup your skill, depending on y
 * [Alexa Skills Kit SDK for Node.js](https://alexa.design/node-sdk-docs)
 * [Alexa Skills Kit Documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2Fskill-sample-nodejs-howto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2Fskill-sample-nodejs-howto?ref=badge_large)
